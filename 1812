@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "04/06/1812",
+        "name": "Кёнигсберг",
+        "event": "Министр иностранных дел Франции де Бассано подписалa ноту о разрыве дипломатических отношений с Россией."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5224609375,
+          54.70082066078885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "date": "12.06.1812",
+        "name": "Ковно",
+        "event": "Главные силы французов начали переправу через Неман."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.88427734375,
+          54.89872361296002
+        ]
+      }
+    }
+  ]
+}
